@@ -1,27 +1,27 @@
-## Student Name (or name you would preferred to be called)
+## Kevin Campbell
 
 ### Fall 2021
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- Intro to Data Science
 
-- Course 2
+- Analytic Geometry and Calculus 1
 
-- Course 3
+- Intro to programming using python
 
-- Course 4
+- Cloud infrastructure and services
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Computers
 
-- Thing 2
+- Art
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Video Games
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/9/02
