@@ -2,15 +2,13 @@
 
 ### Fall 2021
 
-DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
+DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in:
 
-- Intro to Data Science
+| **COP 2073** | **COP 2034** | **MAC 2311** | **CTS 2375** |
+|:-----:|:-----:|:-----:|:-----:|
+| *Intro to Data Science* | *Intro to Python* | *Analytic Geometry and Calculus 1* | *Cloud Infrastructure and Services* |
+| 3 | 3 | 4 | 3 |
 
-- Analytic Geometry and Calculus 1
-
-- Intro to programming using python
-
-- Cloud infrastructure and services
 
 **Hobbies:**
 
